@@ -1,0 +1,26 @@
+2024/10/27-12:57:43.348 ad6 Reusing MANIFEST /home/bit/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/10/27-12:57:43.356 ad6 Recovering log #30
+2024/10/27-12:57:43.356 ad6 Reusing old log /home/bit/.config/discord/Local Storage/leveldb/000030.log 
+2024/10/27-13:01:58.869 ad7 Level-0 table #36: started
+2024/10/27-13:01:58.916 ad7 Level-0 table #36: 3279141 bytes OK
+2024/10/27-13:01:58.918 ad7 Delete type=0 #30
+2024/10/27-13:02:54.516 ad7 Level-0 table #38: started
+2024/10/27-13:02:54.526 ad7 Level-0 table #38: 40090 bytes OK
+2024/10/27-13:02:54.528 ad7 Delete type=0 #35
+2024/10/27-13:04:44.262 ad7 Level-0 table #40: started
+2024/10/27-13:04:44.275 ad7 Level-0 table #40: 43937 bytes OK
+2024/10/27-13:04:44.279 ad7 Delete type=0 #37
+2024/10/27-13:38:44.262 ad7 Level-0 table #42: started
+2024/10/27-13:38:44.319 ad7 Level-0 table #42: 35874 bytes OK
+2024/10/27-13:38:44.323 ad7 Delete type=0 #39
+2024/10/27-13:38:44.324 ad7 Compacting 4@0 + 2@1 files
+2024/10/27-13:38:44.368 ad7 Generated table #43@0: 7 keys, 2425259 bytes
+2024/10/27-13:38:44.405 ad7 Generated table #44@0: 41 keys, 863815 bytes
+2024/10/27-13:38:44.405 ad7 Compacted 4@0 + 2@1 files => 3289074 bytes
+2024/10/27-13:38:44.406 ad7 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/10/27-13:38:44.406 ad7 Delete type=2 #32
+2024/10/27-13:38:44.406 ad7 Delete type=2 #33
+2024/10/27-13:38:44.406 ad7 Delete type=2 #36
+2024/10/27-13:38:44.407 ad7 Delete type=2 #38
+2024/10/27-13:38:44.407 ad7 Delete type=2 #40
+2024/10/27-13:38:44.407 ad7 Delete type=2 #42

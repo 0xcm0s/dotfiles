@@ -1,0 +1,175 @@
+2024-10-16T21:58:42.654Z 0: 
+
+----------------------------------------------
+2024-10-16T21:58:42.661Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.71"}, modulepath: /home/bit/.config/discord/0.0.71/modules
+2024-10-16T21:58:42.666Z 2: ✅ webContents.created web1 ""
+2024-10-16T21:58:42.668Z 3: ✅ window.created win1 "discord"
+2024-10-16T21:58:42.931Z 4: ✅ webContents.did-finish-load web1
+2024-10-16T21:58:57.788Z 5: ✅ webContents.created web2 ""
+2024-10-16T21:58:57.816Z 6: ✅ window.created win2 "Discord"
+2024-10-16T22:00:11.720Z 7: ✅ webContents.did-finish-load web2
+2024-10-16T22:00:11.822Z 8: window.close win1
+2024-10-16T22:00:11.829Z 9: webContents.destroyed web1
+2024-10-16T22:00:11.832Z 10: window.closed win1
+2024-10-16T22:30:35.599Z 0: 
+
+----------------------------------------------
+2024-10-16T22:30:35.612Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.71"}, modulepath: /home/bit/.config/discord/0.0.71/modules
+2024-10-16T22:30:35.616Z 2: ✅ webContents.created web1 ""
+2024-10-16T22:30:35.621Z 3: ✅ window.created win1 "discord"
+2024-10-16T22:30:35.860Z 4: ✅ webContents.did-finish-load web1
+2024-10-16T23:31:27.768Z 0: 
+
+----------------------------------------------
+2024-10-16T23:31:27.824Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.71"}, modulepath: /home/bit/.config/discord/0.0.71/modules
+2024-10-16T23:31:27.825Z 2: ✅ webContents.created web1 "index.html"
+2024-10-16T23:31:27.827Z 3: ✅ window.created win1 "discord"
+2024-10-16T23:31:27.983Z 4: ✅ webContents.did-finish-load web1
+2024-10-16T23:31:28.336Z 5: ✅ webContents.created web2 ""
+2024-10-16T23:31:28.352Z 6: ✅ window.created win2 "Discord"
+2024-10-16T23:31:32.032Z 7: ✅ webContents.did-finish-load web2
+2024-10-16T23:31:32.134Z 8: window.close win1
+2024-10-16T23:31:32.762Z 9: webContents.destroyed web1
+2024-10-16T23:31:32.767Z 10: window.closed win1
+2024-10-16T23:46:50.579Z 11: before-quit
+2024-10-16T23:46:50.611Z 12: window.close win2
+2024-10-17T00:07:28.918Z 0: 
+
+----------------------------------------------
+2024-10-17T00:07:28.932Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.71"}, modulepath: /home/bit/.config/discord/0.0.71/modules
+2024-10-17T00:07:28.937Z 2: ✅ webContents.created web1 ""
+2024-10-17T00:07:28.939Z 3: ✅ window.created win1 "discord"
+2024-10-17T00:07:29.194Z 4: ✅ webContents.did-finish-load web1
+2024-10-17T00:07:29.604Z 5: ✅ webContents.created web2 ""
+2024-10-17T00:07:29.620Z 6: ✅ window.created win2 "Discord"
+2024-10-17T00:07:33.503Z 7: ✅ webContents.did-finish-load web2
+2024-10-17T00:07:33.604Z 8: window.close win1
+2024-10-17T00:07:33.609Z 9: webContents.destroyed web1
+2024-10-17T00:07:33.611Z 10: window.closed win1
+2024-10-17T00:26:50.000Z 11: before-quit
+2024-10-17T00:26:50.005Z 12: window.close win2
+2024-10-17T00:26:50.013Z 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+2024-10-17T00:33:04.321Z 0: 
+
+----------------------------------------------
+2024-10-17T00:33:04.336Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.71"}, modulepath: /home/bit/.config/discord/0.0.71/modules
+2024-10-17T00:33:04.345Z 2: ✅ webContents.created web1 ""
+2024-10-17T00:33:04.348Z 3: ✅ window.created win1 "discord"
+2024-10-17T00:33:04.588Z 4: ✅ webContents.did-finish-load web1
+2024-10-17T00:33:04.967Z 5: ✅ webContents.created web2 ""
+2024-10-17T00:33:04.982Z 6: ✅ window.created win2 "Discord"
+2024-10-17T00:33:07.841Z 7: ✅ webContents.did-finish-load web2
+2024-10-17T00:33:07.943Z 8: window.close win1
+2024-10-17T00:33:07.966Z 9: webContents.destroyed web1
+2024-10-17T00:33:07.969Z 10: window.closed win1
+2024-10-17T00:36:14.950Z 0: 
+
+----------------------------------------------
+2024-10-17T00:36:14.963Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.71"}, modulepath: /home/bit/.config/discord/0.0.71/modules
+2024-10-17T00:36:14.967Z 2: ✅ webContents.created web1 ""
+2024-10-17T00:36:14.969Z 3: ✅ window.created win1 "discord"
+2024-10-17T00:36:15.172Z 4: ✅ webContents.did-finish-load web1
+2024-10-17T00:36:15.531Z 5: ✅ webContents.created web2 ""
+2024-10-17T00:36:15.549Z 6: ✅ window.created win2 "Discord"
+2024-10-17T00:36:18.263Z 7: ✅ webContents.did-finish-load web2
+2024-10-17T00:36:18.365Z 8: window.close win1
+2024-10-17T00:36:18.374Z 9: webContents.destroyed web1
+2024-10-17T00:36:18.375Z 10: window.closed win1
+2024-10-17T01:02:45.562Z 11: before-quit
+2024-10-17T01:02:45.564Z 12: window.close win2
+2024-10-17T21:08:48.868Z 0: 
+
+----------------------------------------------
+2024-10-17T21:08:48.883Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.71"}, modulepath: /home/bit/.config/discord/0.0.71/modules
+2024-10-17T21:08:48.888Z 2: ✅ webContents.created web1 ""
+2024-10-17T21:08:48.889Z 3: ✅ window.created win1 "discord"
+2024-10-17T21:08:49.135Z 4: ✅ webContents.did-finish-load web1
+2024-10-17T21:08:49.526Z 5: ✅ webContents.created web2 ""
+2024-10-17T21:08:49.543Z 6: ✅ window.created win2 "Discord"
+2024-10-17T21:08:53.166Z 7: ✅ webContents.did-finish-load web2
+2024-10-17T21:08:53.267Z 8: window.close win1
+2024-10-17T21:08:53.274Z 9: webContents.destroyed web1
+2024-10-17T21:08:53.276Z 10: window.closed win1
+2024-10-17T22:12:57.169Z 0: 
+
+----------------------------------------------
+2024-10-17T22:12:57.184Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.71"}, modulepath: /home/bit/.config/discord/0.0.71/modules
+2024-10-17T22:12:57.189Z 2: ✅ webContents.created web1 ""
+2024-10-17T22:12:57.191Z 3: ✅ window.created win1 "discord"
+2024-10-17T22:12:57.415Z 4: ✅ webContents.did-finish-load web1
+2024-10-17T22:12:57.796Z 5: ✅ webContents.created web2 ""
+2024-10-17T22:12:57.815Z 6: ✅ window.created win2 "Discord"
+2024-10-17T22:13:01.499Z 7: ✅ webContents.did-finish-load web2
+2024-10-17T22:13:01.600Z 8: window.close win1
+2024-10-17T22:13:01.609Z 9: webContents.destroyed web1
+2024-10-17T22:13:01.611Z 10: window.closed win1
+2024-10-17T23:22:07.292Z 11: before-quit
+2024-10-17T23:22:07.294Z 12: window.close win2
+2024-10-17T23:57:10.803Z 0: 
+
+----------------------------------------------
+2024-10-17T23:57:10.816Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.71"}, modulepath: /home/bit/.config/discord/0.0.71/modules
+2024-10-17T23:57:10.822Z 2: ✅ webContents.created web1 ""
+2024-10-17T23:57:10.823Z 3: ✅ window.created win1 "discord"
+2024-10-17T23:57:11.060Z 4: ✅ webContents.did-finish-load web1
+2024-10-17T23:57:11.340Z 5: ✅ webContents.created web2 ""
+2024-10-17T23:57:11.359Z 6: ✅ window.created win2 "Discord"
+2024-10-17T23:57:15.218Z 7: ✅ webContents.did-finish-load web2
+2024-10-17T23:57:15.319Z 8: window.close win1
+2024-10-17T23:57:15.326Z 9: webContents.destroyed web1
+2024-10-17T23:57:15.327Z 10: window.closed win1
+2024-10-17T23:57:48.371Z 11: before-quit
+2024-10-18T02:25:58.398Z 0: 
+
+----------------------------------------------
+2024-10-18T02:25:58.414Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.71"}, modulepath: /home/bit/.config/discord/0.0.71/modules
+2024-10-18T02:25:58.420Z 2: ✅ webContents.created web1 ""
+2024-10-18T02:25:58.422Z 3: ✅ window.created win1 "discord"
+2024-10-18T02:25:58.681Z 4: ✅ webContents.did-finish-load web1
+2024-10-18T02:25:59.084Z 5: ✅ webContents.created web2 ""
+2024-10-18T02:25:59.102Z 6: ✅ window.created win2 "Discord"
+2024-10-18T02:26:02.317Z 7: ✅ webContents.did-finish-load web2
+2024-10-18T02:26:02.418Z 8: window.close win1
+2024-10-18T02:26:02.430Z 9: webContents.destroyed web1
+2024-10-18T02:26:02.431Z 10: window.closed win1
+2024-10-27T16:57:43.403Z 0: 
+
+----------------------------------------------
+2024-10-27T16:57:43.415Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.71"}, modulepath: /home/bit/.config/discord/0.0.71/modules
+2024-10-27T16:57:43.419Z 2: ✅ webContents.created web1 ""
+2024-10-27T16:57:43.423Z 3: ✅ window.created win1 "discord"
+2024-10-27T16:57:43.657Z 4: ✅ webContents.did-finish-load web1
+2024-10-27T16:57:44.052Z 5: ✅ webContents.created web2 ""
+2024-10-27T16:57:44.069Z 6: ✅ window.created win2 "Discord"
+2024-10-27T16:57:48.104Z 7: ✅ webContents.did-finish-load web2
+2024-10-27T16:57:48.206Z 8: window.close win1
+2024-10-27T16:57:48.216Z 9: webContents.destroyed web1
+2024-10-27T16:57:48.218Z 10: window.closed win1
+2024-10-28T03:19:58.232Z 0: 
+
+----------------------------------------------
+2024-10-28T03:19:58.248Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.71"}, modulepath: /home/bit/.config/discord/0.0.71/modules
+2024-10-28T03:19:58.254Z 2: ✅ webContents.created web1 ""
+2024-10-28T03:19:58.258Z 3: ✅ window.created win1 "discord"
+2024-10-28T03:19:58.517Z 4: ✅ webContents.did-finish-load web1
+2024-10-28T03:19:58.892Z 5: ✅ webContents.created web2 ""
+2024-10-28T03:19:58.910Z 6: ✅ window.created win2 "Discord"
+2024-10-28T03:20:02.886Z 7: ✅ webContents.did-finish-load web2
+2024-10-28T03:20:02.987Z 8: window.close win1
+2024-10-28T03:20:02.997Z 9: webContents.destroyed web1
+2024-10-28T03:20:02.999Z 10: window.closed win1
+2024-10-28T03:25:17.965Z 11: before-quit
+2024-10-28T03:25:17.972Z 12: window.close win2
+2024-10-28T03:25:17.977Z 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
