@@ -85,6 +85,30 @@ super + {_,shift + }{1-9,0}
 	bspc {desktop -f,node -d} '^{1-9,10}'
 
 #
+# Volume
+#
+XF86AudioMute
+	alsamixer -D pulse sset Master toggle
+
+XF86Audio{Raise,Lower}Volume
+	alsamixer -D pulse sset Master 5%{+,-}
+
+#
+# Media Controls
+#
+XF86Audio{Play,Prev,Next}
+	playerctl --player=vlc,spotify {play-pause,previous,next}
+
+#
+# Brightness
+#
+# To adjust the brightness the user must be added to the video group:
+# sudo gpasswd -a $USER video
+XF86MonBrightness{Up,Down}
+	brightnessctl set 5%{+,-}
+
+
+#
 # preselect
 #
 

@@ -2,8 +2,10 @@
 
 pgrep -x sxhkd > /dev/null || sxhkd &
 
+connman-gtk &
+kitty &
 $HOME/.config/polybar/launch.sh &
-feh --bg-fill /home/bit/walls/hollow-knight.png
+feh --bg-fill ~/walls/newwall.jpg &
 picom &
 dunst -conf $HOME/.config/dunst/dunstrc &
 
